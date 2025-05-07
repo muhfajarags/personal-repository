@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
+
 # Hello!, I'm Fajar — AI & Data Engineer 👋🏼  
 I specialize in designing data pipelines, building and deploying ML models, and developing AI-powered applications.
 
