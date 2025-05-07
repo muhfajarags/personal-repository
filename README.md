@@ -1,17 +1,11 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello!, I'm Fajar — AI & Data Engineer 👋🏼  
-🛜 Currently working at [TRAVLR](https://www.travlr.com)  
+I specialize in designing data pipelines, building and deploying ML models, and developing AI-powered applications.
+🧑‍💻 Currently working at [TRAVLR](https://www.travlr.com)  
 👨🏼‍🎓 Information Systems at Brawijaya University  
 📊 Data Analyst since 2023  
-🎥 Exploring tech on my YouTube: *tobi tackles tech*
-
----
-
-# 🧠 Tech Focus:
-As an AI Engineer, I specialize in designing data pipelines, building and deploying ML models, and developing AI-powered applications.
-
----
+📚 Exploring tech on my [Medium](https://medium.com/@muhfajarags)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +25,6 @@ As an AI Engineer, I specialize in designing data pipelines, building and deploy
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
