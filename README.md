@@ -1,13 +1,14 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello!, I'm Fajar — AI & Data Engineer 👋🏼  
 I specialize in designing data pipelines, building and deploying ML models, and developing AI-powered applications.
+
 🧑‍💻 Currently working at [TRAVLR](https://www.travlr.com)  
 👨🏼‍🎓 Information Systems at Brawijaya University  
 📊 Data Analyst since 2023  
 📚 Exploring tech on my [Medium](https://medium.com/@muhfajarags)
 
-# 💻 Tech Stack:
+
+# 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -25,6 +26,16 @@ I specialize in designing data pipelines, building and deploying ML models, and 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+# 🤝 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhfajarags@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhfajarags)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhfajarags)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhfajarags)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/muhfajarags)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@muhfajarags)
 
 ---
 
