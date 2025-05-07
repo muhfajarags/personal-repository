@@ -7,7 +7,7 @@ I specialize in designing data pipelines, building and deploying ML models, and 
 
 🧑‍💻 Currently working at [TRAVLR](https://www.travlr.com)  
 👨🏼‍🎓 Information Systems at Brawijaya University  
-📊 Data Analyst since 2023  
+📊 Data Analyst & Engineer since 2023  
 📚 Exploring tech on my [Medium](https://medium.com/@muhfajarags)
 
 
